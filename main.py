@@ -2,7 +2,7 @@ import subprocess
 import time
 
 # 定义你想要执行代码的特定时间点（24小时制）
-特定时间点 = "08:00:00"
+特定时间点 = "08:10:00"
 
 while True:
     # 获取当前时间
