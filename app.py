@@ -1,1 +1,1 @@
-nohup python main.py
+./main.py
