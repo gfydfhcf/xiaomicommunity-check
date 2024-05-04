@@ -11,7 +11,7 @@ while True:
     # 如果当前时间等于特定时间点，执行代码
     if 当前时间 == 特定时间点:
         # 执行外部脚本
-        subprocess.run(["python", "10086.py"])
+        subprocess.run(["python", "qiandao.py"])
         
         # 等待下一个特定时间点
         continue
